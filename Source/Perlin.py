@@ -1,6 +1,8 @@
 import random
 import math
 
+#THIS IS AN OUTDATED PERLIN NOISE GENERATOR, FOR LATEST VERSION CHECK OUT MY PERLIN NOISE GENERATOR REPOSITORY
+
 #get randomized unit vector
 def GetRandomVectorRotation():
     #get random rotation in degrees
